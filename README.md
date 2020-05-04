@@ -1,4 +1,6 @@
 # adsabs-dev-api
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F137717unity%2Fadsabs-dev-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F137717unity%2Fadsabs-dev-api?ref=badge_shield)
+
 
 ADS Developer API description. 
 
@@ -78,3 +80,7 @@ The Limit variable indicates the amount of daily queries allowed to the user (in
 
 (the rate resetting happens at midnight UTC).  
 For more information and tips about rate limits, please contact us directly at `adshelp@cfa.harvard.edu`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F137717unity%2Fadsabs-dev-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F137717unity%2Fadsabs-dev-api?ref=badge_large)
